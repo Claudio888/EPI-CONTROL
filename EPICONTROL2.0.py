@@ -37,7 +37,7 @@ for row_num in range(worksheet.nrows):
 
     smtp.login('seu email', 'sua senha')
 
-    de = 'gatoajato8000@gmail.com'
+    de = 'seuemail@gmail.com'
     para = "%s"%nome
     msg = """De: Segurança do trabalho
 
